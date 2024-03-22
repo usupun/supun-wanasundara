@@ -2,8 +2,8 @@
 
 ## 👨‍💻 About Me
 - 🎓 I'm currently studying Masters in IT at SLIIT.
-- 🔭 I'm currently working on [Your Project].
-- 🌱 I’m currently learning [What You're Learning].
+- 🔭 I'm currently working as an associate system engineer.
+- 🌱 I’m currently learning cloud computing.
 - 👯 I’m looking to collaborate on [Type of Projects You're Interested In].
 - 🤔 I’m looking for help with [What You Need Help With].
 - 💬 Ask me about [What You're Knowledgeable About].
