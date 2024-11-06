@@ -4,21 +4,12 @@
 - 🎓 I'm currently studying Masters in IT at SLIIT.
 - 🔭 I'm currently working as an associate system engineer.
 - 🌱 I’m currently learning cloud computing.
-- 👯 I’m looking to collaborate on [Type of Projects You're Interested In].
-- 🤔 I’m looking for help with [What You Need Help With].
-- 💬 Ask me about [What You're Knowledgeable About].
+- 👯 I’m looking to collaborate on K8, Cloud (AWS, GCP), Automation (GitLab CI/CD)...
 - 📫 How to reach me: supunwanasundara@gmail.com.
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [Fun Fact About You].
 
 ## 🛠 Technologies and Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=HackerRank&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-// Add or remove technologies based on your profile
+---------------------------
 
 ## Certifications
 
