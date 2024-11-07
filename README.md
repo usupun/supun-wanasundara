@@ -9,7 +9,10 @@
 
 ## 🛠 Technologies and Tools
 
----------------------------
+- GitLab CI/CD
+- K8 and Docker
+- Ansible
+- GCP and AWS
 
 ## Certifications
 
