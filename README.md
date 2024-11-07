@@ -13,6 +13,7 @@
 - K8 and Docker
 - Ansible
 - GCP and AWS
+- xxxxx
 
 ## Certifications
 
